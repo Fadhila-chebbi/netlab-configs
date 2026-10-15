@@ -1,0 +1,2 @@
+# Notes de routage
+Configuration réseau mise à jour.
